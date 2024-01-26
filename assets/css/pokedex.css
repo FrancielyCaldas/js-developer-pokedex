@@ -4,6 +4,17 @@
     margin: 0;
     padding: 0;
     list-style: none;
+    text-decoration: none;
+}
+.pokemonDetail {
+    
+    grid-template-columns: 1fr;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+    font-size: .750rem;
 }
 
 .normal {
@@ -97,6 +108,7 @@
     text-transform: capitalize;
     color: #fff;
     margin-bottom: .25rem;
+    text-decoration: none;
 }
 
 .pokemon .detail {
